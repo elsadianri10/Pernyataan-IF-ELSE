@@ -1,0 +1,2 @@
+# Pernyataan-IF-ELSE
+IF adalah salah satu pernyataan penyeleksian yang memungkain kita memanipulasi aliran jalanya program berdasarkan conditional expression. Else adalah pilihan terakhir yang akan dijalankan jika semua pilihan tidak sesuai dengan kondisi yang ada. Else if adalah pilihan alternative dari penyeleksian untuk mencari kondisi yang diinginkan, else if sama seperti pernyataan if hanya berbeda pada penempatanya, setiap pilihan alternative menggunakan kata kunci else if setelah pernyataan IF pertama.
